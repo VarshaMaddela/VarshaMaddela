@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VarshaMaddela
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Btech 2nd yr 
+- 🌱 I’m currently learning Btech final yr 
 - 💞️ I’m looking to collaborate on project sourcecodes
 - 📫 How to reach me through mail 
 
